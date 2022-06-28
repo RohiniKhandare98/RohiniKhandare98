@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hey <img src="https://github.com/RohiniKhandare98/imp_Assets/blob/31351676e529ea45df655a51dd9cd58ae8d8f5c0/Hi.gif" width="30"> , I'm Rohini.
 
 <!--
 **RohiniKhandare98/RohiniKhandare98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
