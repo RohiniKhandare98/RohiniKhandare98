@@ -1,5 +1,7 @@
 ## Hey <img src="https://github.com/RohiniKhandare98/imp_Assets/blob/31351676e529ea45df655a51dd9cd58ae8d8f5c0/Hi.gif" width="30"> , I'm Rohini.
 
+<img src="https://github.com/RohiniKhandare98/imp_Assets/blob/18d76d14ee56fcd390485f3d682db64a173aa399/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif" width="350">
+
 <!--
 **RohiniKhandare98/RohiniKhandare98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
