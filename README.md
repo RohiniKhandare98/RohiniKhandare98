@@ -6,7 +6,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎+Hey!+It's+Rohini!;I'm+a+Software+Developer.;❤+Java;I+❤+DSA..)](https://git.io/typing-svg)
 </div>
-<img src="https://github.com/RohiniKhandare98/imp_Assets/blob/18d76d14ee56fcd390485f3d682db64a173aa399/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif" width="350">
+<img src="https://github.com/RohiniKhandare98/imp_Assets/blob/18d76d14ee56fcd390485f3d682db64a173aa399/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif" height ="350" width="1000">
 
 <!--
 **RohiniKhandare98/RohiniKhandare98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
