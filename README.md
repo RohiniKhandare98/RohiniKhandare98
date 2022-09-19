@@ -3,7 +3,7 @@
 <div align="left">
    
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
-  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" height ="200" width="600"><img alt="Globe"  src="globe.gif" height ="300"  width="300" align="right">
+  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" height ="200" width="600"><img alt="Globe"  src="globe.gif" height ="250"  width="250" align="right">
   
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span> 
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
@@ -11,9 +11,12 @@
 <!-- <p>
 <img alt="Globe" height="80" src="globe.gif">
 </p> -->
-  
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sofia&sans&serif&color=white&size=36&lines=‎‎‎‎‎‎‎+Hey!+It's+Rohini!;It's+Rohini!;It's+Rohini!;I+❤+DSA..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sofia&sans&serif&color=white&size=36&lines=‎‎‎‎‎‎‎+I'm+a+Software+Developer.;I'm+a+Software+Developer.;I'm+a+Software+Developer.;I+❤+DSA..)](https://git.io/typing-svg)  
+-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sofia&sans&serif&color=white&size=36&lines=‎‎‎‎‎‎‎+Hey!+It's+Rohini!;I'm+a+Software+Developer.;❤+Java;I+❤+DSA..)](https://git.io/typing-svg)
+
 </div>
  
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
