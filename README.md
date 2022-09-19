@@ -1,19 +1,19 @@
 ## Hey , there!.<img src="https://github.com/RohiniKhandare98/imp_Assets/blob/31351676e529ea45df655a51dd9cd58ae8d8f5c0/Hi.gif" width="80"> 
 
-<div align="center">
+<div align="left">
    
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
-  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" height ="200" width="800">
+  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" height ="200" width="600"><img alt="Globe"  src="globe.gif" height ="300"  width="300" align="right">
   
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span> 
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
   
-<!--   <p>
-<img alt="Globe" height="80" src="images/globe.gif">
+<!-- <p>
+<img alt="Globe" height="80" src="globe.gif">
 </p> -->
   
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=white&size=34&lines=‎‎‎‎‎‎‎+Hey!+It's+Rohini!;I'm+a+Software+Developer.;❤+Java;I+❤+DSA..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sofia&sans&serif&color=white&size=36&lines=‎‎‎‎‎‎‎+Hey!+It's+Rohini!;I'm+a+Software+Developer.;❤+Java;I+❤+DSA..)](https://git.io/typing-svg)
 </div>
  
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 
 <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
-## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
+## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="60">
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/rohini-khandare-23b849203/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
