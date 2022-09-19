@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 ## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
 <p align="left">
 
-<a href = "linkedin.com/in/rohini-khandare-23b849203/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "linkedin.com/in/rohini-khandare-23b849203-54728917a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
