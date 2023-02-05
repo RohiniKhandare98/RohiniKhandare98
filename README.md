@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <img height=50 src="icons8-java.gif"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
 <!-- <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span> -->
-## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="60">
+## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" height="50">
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/rohini-khandare-23b849203/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 <div align="center">
 
 
-<img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="50" alt="Thanks For Visiting My GitHub Profile" width="100%" src="https://github.com/RohiniKhandare98/imp_Assets/blob/master/images/marquee%20(1).svg" />
