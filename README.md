@@ -15,7 +15,7 @@
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sofia&sans&serif&color=white&size=36&lines=‎‎‎‎‎‎‎+Hey!+It's+Rohini!;It's+Rohini!;It's+Rohini!;I+❤+DSA..)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sofia&sans&serif&color=white&size=36&lines=‎‎‎‎‎‎‎+I'm+a+Software+Developer.;I'm+a+Software+Developer.;I'm+a+Software+Developer.;I+❤+DSA..)](https://git.io/typing-svg)  
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sofia&sans&serif&color=white&size=36&lines=‎‎‎‎‎‎‎+Hey!+It's+Rohini!;I'm+a+Software+Developer.;❤+Java;I+❤+DSA..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sofia&sans&serif&color=white&size=36&lines=‎‎‎‎‎‎‎+Hey!+It's+me+Rohini!;I'm+a+Software+Developer.;❤+Java;I+❤+DSA..)](https://git.io/typing-svg)
 
 </div>
  
